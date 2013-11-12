@@ -2,7 +2,7 @@
 minimalist transform stream implementation
 
 ## why
-just a cleaner setup than the built in `stream.Transform`
+sugar for [`stream.Transform`](http://nodejs.org/api/stream.html#stream_class_stream_transform)
 
 ## how
 ```javascript
@@ -53,8 +53,8 @@ input.end();      // done!
 ```
 
 ## inspiration
-[through](https://github.com/dominictarr/through) - streams1?  
-[through2](https://github.com/rvagg/through2) - meh too complicated
+[through](https://github.com/dominictarr/through)  
+[through2](https://github.com/rvagg/through2)
 
 ## license
 WTFPL

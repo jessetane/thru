@@ -1,4 +1,4 @@
-var Transform = require('_stream_transform');
+var Transform = require('stream').Transform;
 var inherits = require('inherits');
 
 module.exports = Thru;

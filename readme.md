@@ -1,6 +1,8 @@
 # thru
 minimalist transform stream implementation
 
+NOTICE: The [thru](https://www.npmjs.com/package/thru) package on npm has been transferred to [~thru-core](https://www.npmjs.com/~thru-core) following this release [0.0.3](https://www.npmjs.com/package/thru/v/0.0.3) by me [~jessetane](https://www.npmjs.com/~jessetane) on April 24, 2026. The source code for releases predating the transfer can be found at [https://github.com/jessetane/thru](https://github.com/jessetane/thru).
+
 ## why
 sugar for [`stream.Transform`](http://nodejs.org/api/stream.html#stream_class_stream_transform)
 
